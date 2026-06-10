@@ -5,15 +5,17 @@
 <p align="center">
   <a href="https://linkedin.com/in/harsha-vk">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="16" height="16" />
+         width="16" height="16"/>
     LinkedIn
   </a>
   •
   <a href="mailto:kandulaharsha1210@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-         width="16" height="16" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png"
+         width="16" height="16"/>
     Email
   </a>
+  •
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 
