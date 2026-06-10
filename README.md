@@ -5,7 +5,6 @@
 <a href="https://linkedin.com/in/harsha-vk/">LinkedIn</a> •
 <a href="mailto:kandulaharsha1210@gmail.com">Email</a>
 
-</div>
 ---
 
 ### 👨‍💻 About Me
@@ -19,3 +18,4 @@ Software Engineer with hands-on experience building **production REST APIs**, **
 Python · FastAPI · Flask · React · JavaScript · TypeScript · SQL · Docker · AWS · PostgreSQL · MySQL · SQLAlchemy · Groq LLaMA 3 · FAISS · REST APIs · CI/CD
 
 ---
+</div>
