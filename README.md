@@ -20,16 +20,11 @@ Software Engineer with hands-on experience building **production REST APIs**, **
 <h3 align="center">⚡ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="60"/><br>
-  <b>Python</b>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,ts,js,postgres,mysql,docker,aws,git,github" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,react,ts,js" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,aws,git,github" />
+  Backend • AI/LLMs • Databases • Cloud • DevOps
 </p>
 
 <p align="center">
