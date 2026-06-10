@@ -5,13 +5,13 @@
 <p align="center">
   <a href="https://linkedin.com/in/harsha-vk">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="18" height="18" />
+         width="16" height="16" />
     LinkedIn
   </a>
   •
   <a href="mailto:kandulaharsha1210@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-         width="18" height="18" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png"
+         width="16" height="16" />
     Email
   </a>
 </p>
