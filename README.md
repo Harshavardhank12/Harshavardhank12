@@ -9,7 +9,6 @@
     LinkedIn
   </a>
 
-  
   •
   <a href="mailto:kandulaharsha1210@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png"
