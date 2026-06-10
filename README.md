@@ -20,17 +20,11 @@ Software Engineer with hands-on experience building **production REST APIs**, **
 ## 🛠 Tech Stack
 
 ### Backend
-🐍 Python • ⚡ FastAPI • Flask • REST APIs
-
-### Frontend
-⚛️ React • JavaScript • TypeScript
-
+🐍 Python • ⚡ FastAPI • Flask • REST APIs                 ### Frontend
+                                                    ⚛️ React • JavaScript • TypeScript
 ### Database
-🐬 MySQL • PostgreSQL • SQLAlchemy
-
-### AI & LLMs
-🧠 RAG • FAISS • Groq • Llama 3
-
+🐬 MySQL • PostgreSQL • SQLAlchemy                          ### AI & LLMs
+                                                   🧠 RAG • FAISS • Groq • Llama 3
 ### DevOps & Cloud
 🐳 Docker • ☁️ AWS • GitHub Actions • CI/CD
 
