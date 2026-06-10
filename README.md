@@ -17,23 +17,63 @@ Software Engineer with hands-on experience building **production REST APIs**, **
 
 ---
 
-<h3 align="center">⚡ Tech Stack</h3>
+<h3 align="center">⚡Technology Stack</h3>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,ts,js,postgres,mysql,docker,aws,git,github" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br>
+<b>Python</b>
+</td>
 
-<p align="center">
-  Backend • AI/LLMs • Databases • Cloud • DevOps
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=fastapi" width="65"/><br>
+<b>FastAPI</b>
+</td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Groq-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Llama_3-indigo?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge" />
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=flask" width="65"/><br>
+<b>Flask</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="65"/><br>
+<b>React</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=typescript" width="65"/><br>
+<b>TypeScript</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgres" width="65"/><br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="65"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="65"/><br>
+<b>AWS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="65"/><br>
+<b>Git</b>
+</td>
+</tr>
+</table>
 
 ---
 </div>
