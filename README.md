@@ -17,17 +17,20 @@ Software Engineer with hands-on experience building **production REST APIs**, **
 
 ---
 
-<h3 align="center">⚡ Engineering Stack</h3>
+<h3 align="center">⚡ Tech Dock</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,react,ts,js,mysql,postgres,docker,aws,git,github&perline=6" />
+  <img height="55" src="https://skillicons.dev/icons?i=python" />
+  <img height="55" src="https://skillicons.dev/icons?i=fastapi" />
+  <img height="55" src="https://skillicons.dev/icons?i=react" />
+  <img height="55" src="https://skillicons.dev/icons?i=ts" />
+  <img height="55" src="https://skillicons.dev/icons?i=postgres" />
+  <img height="55" src="https://skillicons.dev/icons?i=docker" />
+  <img height="55" src="https://skillicons.dev/icons?i=aws" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-RAG-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector_DB-FAISS-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LLM-Groq-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Model-Llama_3-indigo?style=for-the-badge"/>
+Backend • AI • Cloud • Full Stack
 </p>
 
 ---
