@@ -1,3 +1,5 @@
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Harsha%F0%9F%91%8B;Backend+%26+AI+Engineer)](https://git.io/typing-svg)
 
 [LinkedIn](https://linkedin.com/in/harsha-vk/) · [Email](mailto:kandulaharsha1210@gmail.com)
@@ -15,3 +17,4 @@ Software Engineer with hands-on experience building **production REST APIs**, **
 Python · FastAPI · Flask · React · JavaScript · TypeScript · SQL · Docker · AWS · PostgreSQL · MySQL · SQLAlchemy · Groq LLaMA 3 · FAISS · REST APIs · CI/CD
 
 ---
+</div>
