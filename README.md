@@ -17,7 +17,7 @@ Software Engineer with hands-on experience building **production REST APIs**, **
 
 ---
 
-<h3 align="center">⚡ Engineering Stack</h3>
+<h3 align="center">⚡ Tech Stack</h3>
 
 <table align="center">
 <tr>
