@@ -17,21 +17,63 @@ Software Engineer with hands-on experience building **production REST APIs**, **
 
 ---
 
-<h3 align="center">⚡ Tech Dock</h3>
+<h3 align="center">⚡ Engineering Stack</h3>
 
-<p align="center">
-  <img height="55" src="https://skillicons.dev/icons?i=python" />
-  <img height="55" src="https://skillicons.dev/icons?i=fastapi" />
-  <img height="55" src="https://skillicons.dev/icons?i=react" />
-  <img height="55" src="https://skillicons.dev/icons?i=ts" />
-  <img height="55" src="https://skillicons.dev/icons?i=postgres" />
-  <img height="55" src="https://skillicons.dev/icons?i=docker" />
-  <img height="55" src="https://skillicons.dev/icons?i=aws" />
-</p>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="65"/><br>
+<b>Python</b>
+</td>
 
-<p align="center">
-Backend • AI • Cloud • Full Stack
-</p>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=fastapi" width="65"/><br>
+<b>FastAPI</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=flask" width="65"/><br>
+<b>Flask</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="65"/><br>
+<b>React</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=typescript" width="65"/><br>
+<b>TypeScript</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=postgres" width="65"/><br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=docker" width="65"/><br>
+<b>Docker</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=aws" width="65"/><br>
+<b>AWS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="65"/><br>
+<b>Git</b>
+</td>
+</tr>
+</table>
 
 ---
 </div>
