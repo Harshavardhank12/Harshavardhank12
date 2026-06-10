@@ -75,5 +75,15 @@ Software Engineer with hands-on experience building **production REST APIs**, **
 </tr>
 </table>
 
+<h3 align="center">🧠 AI Stack</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Groq-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Llama_3-indigo?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-red?style=for-the-badge" />
+</p>
+
 ---
 </div>
