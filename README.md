@@ -2,22 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=2000&color=36BCF7&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Harsha+%F0%9F%91%8B;Backend+%26+AI+Engineer)](https://git.io/typing-svg)
 
+<p align="center">
   <a href="https://linkedin.com/in/harsha-vk">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="16" height="16"/>
+         width="18" height="18" />
     LinkedIn
   </a>
-
-  
+  •
   <a href="mailto:kandulaharsha1210@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png"
-         width="16" height="16"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
+         width="18" height="18" />
     Email
   </a>
-
-
-
-
+</p>
 
 
 
