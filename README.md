@@ -8,15 +8,11 @@
          width="16" height="16"/>
     LinkedIn
   </a>
-  •
   <a href="mailto:kandulaharsha1210@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png"
          width="16" height="16"/>
     Email
   </a>
-  •
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
 
 <img src="https://komarev.com/ghpvc/?username=Harshavardhank12&label=Profile%20Views&color=0e75b6&style=flat" />
